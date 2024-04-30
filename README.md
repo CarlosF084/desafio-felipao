@@ -1,7 +1,7 @@
 # Desafio do Felipão
 
 Desafio da DIO proposto por Felipão.  
-Autor: Carlos Filho
+Aluno: Carlos Filho
 
 ## 1️⃣ Desafio Classificador de nível de Herói
 
